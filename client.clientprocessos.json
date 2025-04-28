@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "680ffce3c54f2d76a6ffbae8"
+  },
+  "client_id": "id_do_cliente_maria_silva",
+  "number": "PROC-2023-001",
+  "value": 1500,
+  "status": "ativo",
+  "class": "Cobrança",
+  "description": "Processo de cobrança referente a fatura em aberto.",
+  "created_at": {
+    "$date": "2023-10-26T10:00:00.000Z"
+  }
+}]
